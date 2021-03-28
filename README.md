@@ -1,6 +1,6 @@
 # iperf3-win-64
 
-# Building iperf3
+## Building iperf3
 
 Build with [Cygwin](https://www.cygwin.com).
 
@@ -10,7 +10,7 @@ Build with [Cygwin](https://www.cygwin.com).
 make
 ~~~
 
-# Binary
+## Binary
 
 [iperf 3.9](https://github.com/pengelana/iperf3-win-64/releases/download/3.9/iperf-3.9-win64.zip)
 
