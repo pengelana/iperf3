@@ -12,6 +12,6 @@ make
 
 ## Binary
 
-[iperf 3.9](https://github.com/pengelana/iperf3-win-64/releases/download/3.9/iperf-3.9-win64.zip)
+[iperf 3.9](https://github.com/pengelana/iperf3/releases)
 
 
